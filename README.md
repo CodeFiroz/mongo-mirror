@@ -2,7 +2,7 @@
 
 A modern, high-performance web studio for MongoDB database management, direct cross-instance live migrations, native `mongodump` backups, `mongorestore` archive imports, and flexible JSON/CSV data transfers.
 
-**Live Demo:** [MongoMirror on Vercel](https://your-deployment-name.vercel.app) *(replace with your deployed Vercel URL)*
+**Live Demo:** [MongoMirror on Vercel](https://mongo-mirror.vercel.app/) *(replace with your deployed Vercel URL)*
 
 Designed with a clean, quiet developer SaaS aesthetic inspired by Linear and Vercel.
 
@@ -74,8 +74,8 @@ Designed with a clean, quiet developer SaaS aesthetic inspired by Linear and Ver
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/codeFiroz/MongoMirror.git
-   cd MongoMirror
+   git clone https://github.com/CodeFiroz/mongo-mirror.git
+   cd mongo-mirror
    ```
 
 2. **Install dependencies**:
